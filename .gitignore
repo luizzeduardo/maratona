@@ -1,5 +1,6 @@
 # Diretórios de build
-/build/
+**/build/
+build/
 /bin/
 /obj/
 /cmake-build-*/
@@ -12,3 +13,4 @@
 *.dll
 *.a
 *.lib
+
