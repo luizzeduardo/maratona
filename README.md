@@ -1,3 +1,5 @@
-# Progamaçaõ Competitiva
+# Progamação Competitiva
 
-Qestões feitas e resolvidas de Programaçaõ Competitiva
+Qestões feitas e resolvidas de Programação Competitiva
+
+Codeforces, AtCoder, USACO, CESES
