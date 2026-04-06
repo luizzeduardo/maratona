@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/luiz/Programação Competitiva/Codeforces/contest/Round 1089 (Div. 2)",
-      "program": "/home/luiz/Programação Competitiva/Codeforces/contest/Round 1089 (Div. 2)/build/Debug/outDebug",
+      "cwd": "/home/luiz/Programação Competitiva/Codeforces/problemset",
+      "program": "/home/luiz/Programação Competitiva/Codeforces/problemset/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
