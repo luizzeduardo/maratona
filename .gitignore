@@ -1,0 +1,14 @@
+# Diretórios de build
+/build/
+/bin/
+/obj/
+/cmake-build-*/
+
+# Arquivos compilados
+*.o
+*.out
+*.exe
+*.so
+*.dll
+*.a
+*.lib
