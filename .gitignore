@@ -1,0 +1,21 @@
+# Diretórios de build
+**/build/
+build/
+/bin/
+/obj/
+/cmake-build-*/
+*.json
+
+# Arquivos compilados
+*.o
+*.out
+*.exe
+*.so
+*.dll
+*.a
+*.lib
+*vscode
+
+launch.json
+.vscode/
+*.json
