@@ -18,3 +18,4 @@ build/
 
 launch.json
 .vscode/
+*.json
