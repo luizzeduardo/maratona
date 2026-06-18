@@ -14,5 +14,7 @@ build/
 *.dll
 *.a
 *.lib
+*vscode
 
 launch.json
+.vscode/
