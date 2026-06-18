@@ -4,6 +4,7 @@ build/
 /bin/
 /obj/
 /cmake-build-*/
+*.json
 
 # Arquivos compilados
 *.o
@@ -14,3 +15,4 @@ build/
 *.a
 *.lib
 
+launch.json
