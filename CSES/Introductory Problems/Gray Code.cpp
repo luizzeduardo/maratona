@@ -23,10 +23,11 @@ int main(){
     // 101
     // 111
 
-    int ans = 000;
-    for(int i=1; i<n; i++){
-        ans = (i-1)^(i); 
-        cout << ans << endl;
+    for (int i = 0; i < (1 << n); i++){   
+        int g = i ^ (i >> 1);            
+        for (int b = n - 1; b >= 0; b--)  
+            cout << ((g >> b) & 1);
+        cout << '\n';
     }
 
 }
